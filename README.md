@@ -1,3 +1,5 @@
+fork from https://github.com/Shimingli/WritingPen
+
 ##  此Demo介绍的两个地址：
 * 安卓画笔笔锋的实现探索（一）：http://www.jianshu.com/p/6746d68ef2c3
 * 安卓画笔笔锋的实现探索（二）：http://www.jianshu.com/p/3ee259f2caf7#
